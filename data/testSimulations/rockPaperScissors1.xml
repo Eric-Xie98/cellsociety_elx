@@ -1,0 +1,20 @@
+<simulation>
+  <details>
+    <type>Rock Paper Scissors</type>
+    <title>Rock Paper Scissors Testing File</title>
+    <author>Eric Xie</author>
+    <description>Short test file for Rock Paper Scissors</description>
+    <width>5</width>
+    <height>5</height>
+    <percentageParameters>
+      <possibleValue>Threshold Value: 2</possibleValue>
+    </percentageParameters>
+  </details>
+  <array>
+    <row id ="1">0, 1, 2, 2, 2</row>
+    <row id ="2">1, 0, 1, 2, 2</row>
+    <row id ="3">2, 1, 0, 1, 2</row>
+    <row id ="4">2, 2, 1, 0, 1</row>
+    <row id ="5">2, 2, 2, 1, 0</row>
+  </array>
+</simulation>

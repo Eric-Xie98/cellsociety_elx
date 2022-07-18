@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simulation>
+  <details>
+    <type>CS Percolation</type>
+    <title>Percolation Initial State Config 2</title>
+    <author>Eric Xie</author>
+    <description>This is the second of five initial state XML config files for the CS Percolation simulation. This simulation should start at the top left corner and slowly snake its way through the grid cell by cell. It should end at the bottom right corner.</description>
+    <width>9</width>
+    <height>9</height>
+  </details>
+  <array>
+    <row id ="1">1, 2, 0, 0, 0, 2, 0, 0, 0</row>
+    <row id ="2">0, 2, 0, 2, 0, 2, 0, 2, 0</row>
+    <row id ="3">0, 2, 0, 2, 0, 2, 0, 2, 0</row>
+    <row id ="4">0, 2, 0, 2, 0, 2, 0, 2, 0</row>
+    <row id ="5">0, 2, 0, 2, 0, 2, 0, 2, 0</row>
+    <row id ="6">0, 2, 0, 2, 0, 2, 0, 2, 0</row>
+    <row id ="7">0, 2, 0, 2, 0, 2, 0, 2, 0</row>
+    <row id ="8">0, 2, 0, 2, 0, 2, 0, 2, 0</row>
+    <row id ="9">0, 0, 0, 2, 0, 0, 0, 2, 0</row>
+  </array>
+</simulation>

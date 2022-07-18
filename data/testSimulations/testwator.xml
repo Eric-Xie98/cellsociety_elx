@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simulation>
+    <details>
+        <type>Wator World</type>
+        <title>Thivya Sivarajah's Sample</title>
+        <author>Thivya Sivarajah</author>
+        <description>This is the first Wa-Tor World test file</description>
+        <possibleValue1>0</possibleValue1>
+        <possibleValue2>0</possibleValue2>
+        <width>3</width>
+        <height>3</height>
+    </details>
+    <array>
+        <row id ="1">2, 1, 1</row>
+        <row id ="2">1, 1, 1</row>
+        <row id ="3">1, 1, 1</row>
+
+    </array>
+</simulation>

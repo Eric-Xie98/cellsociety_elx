@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simulation>
+    <details>
+        <type>Spreading of Fire</type>
+        <title>Robert Cranston's Sample</title>
+        <author>Robert Cranston</author>
+        <description>This is the first test xml file ddfsf fddsafd fdafdsaa fdsfsdfas fdfsaf fdsa</description>
+        <percentageParameters>
+            <possibleValue>Probability of Catching Fire:100</possibleValue>
+        </percentageParameters>
+        <width>7</width>
+        <height>7</height>
+    </details>
+    <array>
+        <row id ="1">1, 1, 1, 1, 1, 1, 1</row>
+        <row id ="2">1, 1, 1, 1, 1, 1, 1</row>
+        <row id ="3">1, 1, 1, 1, 1, 1, 1</row>
+        <row id ="4">1, 1, 1, 2, 1, 1, 1</row>
+        <row id ="5">1, 1, 1, 1, 1, 1, 1</row>
+        <row id ="6">1, 1, 1, 1, 1, 1, 1</row>
+        <row id ="7">1, 1, 1, 1, 1, 1, 1</row>
+    </array>
+</simulation>

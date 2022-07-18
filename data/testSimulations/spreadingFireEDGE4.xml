@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simulation>
+  <details>
+    <type>Spreading of Fire</type>
+    <title>Spreading of Fire Initial State EDGE Config 4</title>
+    <author>Eric Xie</author>
+    <description>(100% PROBABILITY OF CATCHING FIRE) The fourth out of five tests of the spreading fire simulation. Burning tree on one side of the "river". All trees on the left side should catch fire while the ones on the right should not. </description>
+    <width>14</width>
+    <height>7</height>
+    <percentageParameters>
+      <possibleValue>Probability of Catching Fire:100</possibleValue>
+    </percentageParameters>
+  </details>
+  <array>
+    <row id ="1">2, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1</row>
+    <row id ="2">1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1</row>
+    <row id ="3">1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1</row>
+    <row id ="4">1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1</row>
+    <row id ="5">1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1</row>
+    <row id ="6">1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1</row>
+    <row id ="7">1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1</row>
+
+  </array>
+</simulation>

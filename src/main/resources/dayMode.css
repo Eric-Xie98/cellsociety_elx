@@ -1,0 +1,151 @@
+
+#welcomeScreen{
+  -fx-alignment: center;
+  -fx-pref-width: infinity;
+
+}
+
+#welcomeText{
+  -fx-font-size: 40;
+}
+.label{
+  -fx-font-family: "Segoe UI Semibold";
+  -fx-font-size: 10pt;
+}
+
+#speedBox{
+  -fx-spacing: 5;
+  -fx-padding: 15;
+  -fx-alignment: center;
+}
+.slider{
+  -fx-show-tick-labels: true;
+  -fx-show-tick-marks: true;
+  -fx-major-tick-unit: 1;
+  -fx-snap-to-ticks: true;
+  -fx-minor-tick-count: 4;
+}
+#title{
+  -fx-padding: 10;
+  -fx-font-size: 25pt;
+}
+#titleBox{
+  -fx-padding: 10;
+  -fx-max-width: infinity;
+  -fx-alignment: center;
+}
+#simulationTitle{
+  -fx-font-size: 20pt;
+  -fx-font-weight: bold;
+}
+#author{
+  -fx-underline: true;
+}
+
+#playPause {
+  -fx-min-width: 350;
+  -fx-pref-width: 350;
+  -fx-alignment: center;
+  -fx-spacing: 10;
+}
+#resetNext {
+  -fx-min-width: 350;
+  -fx-pref-width: 350;
+  -fx-alignment: center;
+  -fx-spacing: 10;
+}
+#control{
+  -fx-min-width: 350;
+  -fx-pref-width: 350;
+  -fx-alignment: center;
+  -fx-spacing: 10;
+}
+
+#sidePanel{
+  -fx-alignment: center;
+}
+
+#configBox{
+  -fx-max-width: infinity;
+  -fx-padding: 20;
+  -fx-spacing: 10;
+}
+
+.VBox{
+  -fx-min-width: 350;
+  -fx-alignment: center;
+}
+
+#gridViewTriangle{
+  -fx-max-height: 400;
+  -fx-max-width: 600;
+  -fx-hgap: -250;
+  -fx-vgap: 2;
+}
+
+#gridViewRectangle{
+  -fx-max-height: 400;
+  -fx-max-width: 600;
+  -fx-hgap: 2;
+  -fx-vgap: 2;
+}
+#EMPTY{
+  -fx-fill: grey;
+}
+
+#TREE {
+  -fx-fill: green;
+}
+
+#BURNING{
+  -fx-fill: red;
+}
+#WATERFILLED{
+  -fx-fill: lightblue;
+}
+
+#WATERBLOCKED{
+  -fx-fill: black;
+}
+
+#ALIVE{
+  -fx-fill: green;
+}
+#BLOCKED{
+  -fx-fill: black;
+}
+#AGENT1{
+  -fx-fill: blue;
+}
+#AGENT2{
+  -fx-fill: red;
+}
+#FISH{
+  -fx-fill: green;
+}
+
+#SHARK{
+  -fx-fill: blue;
+}
+
+#ROCK{
+  -fx-fill: red;
+}
+
+#PAPER{
+  -fx-fill: green;
+}
+
+#SCISSORS{
+  -fx-fill: blue;
+}
+
+#VOID {
+  -fx-fill: grey;
+}
+
+#SAND {
+  -fx-fill: rgb(194, 178, 128);
+}
+
+

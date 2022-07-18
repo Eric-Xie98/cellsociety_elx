@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simulation>
+  <details>
+    <type>Spreading of Fire</type>
+    <title>Spreading of Fire Initial State Config 1</title>
+    <author>Robert Cranston</author>
+    <description>(100% PROBABILITY OF CATCHING FIRE) Who knows what'll happen. </description>
+    <width>5</width>
+    <height>7</height>
+    <percentageParameters>
+      <possibleValue>Probability of Catching Fire:100</possibleValue>
+    </percentageParameters>
+  </details>
+  <array>
+    <randomize>
+      <maxValue>2</maxValue>
+    </randomize>
+  </array>
+</simulation>

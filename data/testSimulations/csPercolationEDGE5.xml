@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simulation>
+  <details>
+    <type>CS Percolation</type>
+    <title>Percolation Initial State EDGE Config 5</title>
+    <author>Eric Xie</author>
+    <description>This is the fifth of five XML files for the percolation simulation, but with a source water cell on the edge. This simulation has a source water cell on all four corners, which should spread out evenly toward each other and fill the entire grid up. Last step fills a 2x2 square in the center.</description>
+    <width>10</width>
+    <height>10</height>
+  </details>
+  <array>
+    <row id ="1">1, 0, 0, 0, 0, 0, 0, 0, 0, 1</row>
+    <row id ="2">0, 0, 0, 0, 0, 0, 0, 0, 0, 0</row>
+    <row id ="3">0, 0, 0, 0, 0, 0, 0, 0, 0, 0</row>
+    <row id ="4">0, 0, 0, 0, 0, 0, 0, 0, 0, 0</row>
+    <row id ="5">0, 0, 0, 0, 0, 0, 0, 0, 0, 0</row>
+    <row id ="6">0, 0, 0, 0, 0, 0, 0, 0, 0, 0</row>
+    <row id ="7">0, 0, 0, 0, 0, 0, 0, 0, 0, 0</row>
+    <row id ="8">0, 0, 0, 0, 0, 0, 0, 0, 0, 0</row>
+    <row id ="9">0, 0, 0, 0, 0, 0, 0, 0, 0, 0</row>
+    <row id="10">1, 0, 0, 0, 0, 0, 0, 0, 0, 1</row>
+  </array>
+</simulation>

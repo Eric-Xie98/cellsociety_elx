@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<simulation>
+    <details>
+        <type>fallingsandandwater</type>
+        <title>Test 1</title>
+        <author>Robert Cranston</author>
+        <description>Test 3 I think</description>
+        <width>7</width>
+        <height>10</height>
+        <percentageParameters/>
+    </details>
+    <array>
+        <row>0, 0, 0, 0, 0, 0, 0</row>
+        <row>0, 0, 2, 0, 0, 0, 0</row>
+        <row>0, 0, 2, 0, 2, 0, 2</row>
+        <row>0, 0, 1, 1, 1, 1, 1</row>
+        <row>0, 0, 2, 0, 0, 2, 0</row>
+        <row>1, 1, 1, 1, 1, 0, 2</row>
+        <row>0, 0, 0, 0, 0, 2, 3</row>
+        <row>0, 0, 0, 0, 0, 0, 3</row>
+        <row>3, 3, 0, 0, 0, 3, 3</row>
+        <row>3, 3, 3, 0, 3, 3, 3</row>
+    </array>
+</simulation>

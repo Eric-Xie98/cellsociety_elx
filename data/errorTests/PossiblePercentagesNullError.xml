@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simulation>
+  <details>
+    <type>Spreading of Fire</type>
+    <title>Spreading of Fire Initial State Config 1</title>
+    <author>Robert Cranston</author>
+    <description>(100% PROBABILITY OF CATCHING FIRE) The first out of five tests of the spreading fire simulation. This one has a burning tree in the middle of a field of trees. We can set the probability of catching fire to see how every tree around the burning tree will catch on fire and burn. Very similar to percolation water source in the middle of an empty grid.</description>
+    <width>7</width>
+    <height>7</height>
+    <percentageParameters>
+      <possibleValue></possibleValue>
+    </percentageParameters>
+  </details>
+  <array>
+    <row id ="1">1, 1, 1, 1, 1, 1, 1</row>
+    <row id ="2">1, 1, 1, 1, 1, 1, 1</row>
+    <row id ="3">1, 1, 1, 1, 1, 1, 1</row>
+    <row id ="4">1, 1, 1, 2, 1, 1, 1</row>
+    <row id ="5">1, 1, 1, 1, 1, 1, 1</row>
+    <row id ="6">1, 1, 1, 1, 1, 1, 1</row>
+    <row id ="7">1, 1, 1, 1, 1, 1, 1</row>
+  </array>
+</simulation>
